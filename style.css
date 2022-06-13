@@ -1,0 +1,65 @@
+
+body{
+    background-color: #F9F3EE;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 7px;
+    margin-right: 4px;
+    padding-top: 10px;
+    padding-right: 70px;
+    padding-left: 70px;
+    
+}
+.header{
+    background-color: #ECB390;
+     padding-top: 7px;
+     padding-left: 4px;
+    
+}
+
+.gender{
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.survey{
+    padding-bottom: 7px;
+}
+
+button{
+    color: whitesmoke   ;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(163, 163, 228);
+    border: none;
+    margin-top: 80px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: .15s;
+}
+
+button:hover{
+    font-size: 15px;
+    padding-top: 10px;
+    padding-left:10px;
+    padding-right: 10px;
+    padding-bottom:10px;
+}
+.branch{
+    margin-top: 20px;
+    margin-right: 4px;
+    padding-bottom: 7px;
+}
+
+.back{
+    margin-bottom: 200px;
+    font-size: 15px;
+}
+.complete{
+    padding-top: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
